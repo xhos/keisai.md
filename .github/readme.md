@@ -19,3 +19,4 @@ to be added
 contributions are welcome! feel free to open issues or submit pull requests
 
 ## license
+[MIT](./LICENSE)
